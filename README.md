@@ -1,5 +1,7 @@
 # demographql
-This is a simple example of GraghQL
+Two simple examples of GraghQL
+
+To run the first example:
 
 1. npm init -y
 2. npm intsall loadash
@@ -13,3 +15,5 @@ This is a simple example of GraghQL
     capital
   }
 }
+
+For the 2nd example pls refer to https://coding.imooc.com/class/chapter/643.html
